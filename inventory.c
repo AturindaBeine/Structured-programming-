@@ -61,7 +61,7 @@ int main() {
                 itemcost = itemcost + (quantity[A] * price[A]);
             }
 
-        printf("The total cost of all items is UGGX %d\n", itemcost);
+        printf("The total cost of all items is UGX %d\n", itemcost);
         itemcost = 0;  //reset    
 
         }
